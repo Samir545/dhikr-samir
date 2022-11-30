@@ -26,3 +26,4 @@ _So remember Me and I shall remember you; give thanks to Me and do not be ungrat
 # Dhikr Installation
 [Click here](https://chrome.google.com/webstore/detail/dhikr-chrome-extension/alhhipkdolifadffnollpkijfpnlnfka/related?authuser=1) and install Dhikr as your chorme extension.
 
+# dhikirweb
